@@ -17,6 +17,6 @@ J. Vongkulbhisal, F. De la Torre, J. Costeira. Discriminative Optimization: Theo
 ## Note
 The Stanford Bunny shape was obtained and modified from The Stanford 3D Scanning Repository (http://graphics.stanford.edu/data/3Dscanrep/) 
 
-This code is provided for research purpose only. 
+This code is free for research and academic use.
 
 
